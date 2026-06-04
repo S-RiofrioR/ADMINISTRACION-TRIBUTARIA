@@ -1,0 +1,43 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+*.pyc
+__pycache__/
+
+# Datos (no subir datos sensibles o muy pesados)
+DATOS/raw/*
+!DATOS/raw/.gitkeep
+DATOS/processed/*
+!DATOS/processed/.gitkeep
+DATOS/intermediate/*
+!DATOS/intermediate/.gitkeep
+
+# Exportaciones grandes
+EXPORT/*.xlsx
+EXPORT/*.csv
+EXPORT/figures/*.png
+EXPORT/figures/*.jpg
+!EXPORT/figures/.gitkeep
+
+# Credenciales y configuración local
+.env
+*.env.local
+config_local.py
+credentials.json
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
