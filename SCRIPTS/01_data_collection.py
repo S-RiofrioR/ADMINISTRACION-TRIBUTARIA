@@ -1,6 +1,6 @@
 """
 Script 01: Recolección de Datos
-================================
+=============================
 Descarga datos del Banco Mundial (WDI y WGI) para el análisis de crowding-out.
 """
 
