@@ -1,0 +1,8 @@
+# Agregar cambios
+git add .
+
+# Commit
+git commit -m "feat: Nombre de la modificación"
+
+# Push
+git push origin main
