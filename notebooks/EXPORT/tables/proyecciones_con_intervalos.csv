@@ -1,0 +1,7 @@
+﻿Pais,Año,FBKF_Prediccion,FBKF_IC_Inferior,FBKF_IC_Superior,FBKF_Error_Estandar,FBKF_Tendencia,Fiscal_Prediccion,Fiscal_IC_Inferior,Fiscal_IC_Superior,Fiscal_Error_Estandar,Fiscal_Tendencia
+Ecuador,2025,15.93,15.28,16.58,0.3021,↘️,15.89,15.57,16.21,0.1464,↗️
+Ecuador,2026,15.59,14.87,16.31,0.3317,↘️,16.06,15.71,16.41,0.1607,↗️
+Panamá,2025,26.22,25.44,27.0,0.3597,️,10.55,10.31,10.8,0.1131,️
+Panamá,2026,26.25,25.4,27.1,0.3949,️,10.55,10.28,10.81,0.1242,️
+Costa Rica,2025,18.43,17.78,19.07,0.2978,↘️,14.96,14.45,15.48,0.2388,↗️
+Costa Rica,2026,18.28,17.58,18.99,0.327,↘️,15.12,14.55,15.69,0.2622,↗️

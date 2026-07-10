@@ -1,0 +1,16 @@
+﻿Metrica,Valor,Interpretacion
+R²,0.9337,Proporción de varianza explicada
+R² Ajustado,0.9322,R² ajustado por grados de libertad
+Estadístico F,605.5523,Significancia global del modelo
+p-valor F,0.000000,p < 0.05 indica modelo significativo
+Coeficiente Presión Fiscal,-1.8246,Efecto marginal de presión fiscal sobre FBKF
+Error Estándar Coeficiente,0.0741,Precisión del coeficiente estimado
+Estadístico t Coeficiente,-24.6080,Razón coeficiente/error estándar
+p-valor Coeficiente,0.000000,p < 0.05 indica coeficiente significativo
+Jarque-Bera (Normalidad),4.5984,Test de normalidad de residuos
+p-valor Jarque-Bera,0.1003,p > 0.05 no rechaza normalidad
+Durbin-Watson (Autocorrelación),1.5255,1.5-2.5 indica sin autocorrelación
+Breusch-Pagan (Homocedasticidad),0.0854,Test de homocedasticidad
+p-valor Breusch-Pagan,0.7701,p > 0.05 no rechaza homocedasticidad
+Observaciones,45.0,Total de observaciones en el panel
+Grados de Libertad,43.0,n - k - 1
